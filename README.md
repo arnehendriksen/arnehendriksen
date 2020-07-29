@@ -5,8 +5,8 @@ Creator of <a href="https://megaproductive.com" target="_blank" title="Megaprodu
                         and <a href="https://usernamealert.com" target="_blank" title="Username Alert">Username&nbsp;Alert</a>.
                         Publisher of <a href="https://kerstmisgids.nl" target="_blank" title="KerstmisGids">KerstmisGids</a> (Dutch).
                         Former <a href="http://supremecore.net" target="_blank" title="SCP">netlabel</a> owner.
-                        <a class="sectionable-link" href="#contributions" data-section="contributions">Open&nbsp;source</a> contributor.
-                        Small-scale investor in digital assets and <a href="{{ url('/blog/domain-names-for-sale') }}" title="Domain names for sale">web properties</a>.
+                        Open&nbsp;source contributor.
+                        Small-scale investor in digital assets and web properties.
                         Occasional <a href="https://soundcloud.com/arnehendriksen" target="_blank" title="Arne Hendriksen on SoundCloud">home&nbsp;studio&nbsp;musician</a>.
                         Productivity enthusiast and <a href="https://gettingthingsdone.com" target="_blank" rel="nofollow" title="Getting Things Done">GTD</a> adept.
 
