@@ -1,5 +1,5 @@
 Creator of <a href="https://megaproductive.com" target="_blank" title="Megaproductive">Megaproductive</a>,
-                        <a href="https://followerbase.com" target="_blank" title="FollowerBase">FollowerBase</a>,
+                        <a href="https://followerbase.com" target="_blank" title="Followerbase">Followerbase</a>,
                         <a href="https://startupebooks.net" target="_blank" title="Startup ebooks">Startup&nbsp;ebooks</a>,
                         <strong>Chiefly</strong><sup class="color-red">&#10013;</sup>,
                         and <a href="https://usernamealert.com" target="_blank" title="Username Alert">Username&nbsp;Alert</a>.
