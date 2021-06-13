@@ -1,7 +1,7 @@
 Creator of <a href="https://megaproductive.com" target="_blank" title="Megaproductive">Megaproductive</a>,
                         <a href="https://followerbase.com" target="_blank" title="Followerbase">Followerbase</a>,
                         <a href="https://startupebooks.net" target="_blank" title="Startup ebooks">Startup&nbsp;ebooks</a>,
-                        <strong>Chiefly</strong><sup class="color-red">&#10013;</sup>,
+                        <strong>Chiefly</strong> (sold),
                         and <a href="https://usernamealert.com" target="_blank" title="Username Alert">Username&nbsp;Alert</a>.
                         Publisher of <a href="https://kerstmisgids.nl" target="_blank" title="KerstmisGids">KerstmisGids</a> (Dutch).
                         Former <a href="http://supremecore.net" target="_blank" title="SCP">netlabel</a> owner.
