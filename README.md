@@ -1,4 +1,4 @@
-Creator of <a href="https://megaproductive.com" target="_blank" title="Megaproductive">Megaproductive</a>,
+Owner of <a href="https://mediaboutique.nl">Media Boutique</a>. Creator of <a href="https://megaproductive.com" target="_blank" title="Megaproductive">Megaproductive</a>,
                         <a href="https://followerbase.com" target="_blank" title="Followerbase">Followerbase</a>,
                         <a href="https://startupebooks.net" target="_blank" title="Startup ebooks">Startup&nbsp;ebooks</a>,
                         Chiefly (sold),
