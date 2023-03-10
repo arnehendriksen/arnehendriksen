@@ -1,9 +1,9 @@
-Owner of <a href="https://mediaboutique.nl">Media Boutique</a>. Creator of Megaproductive (sold),
-                        <a href="https://followerbase.com" target="_blank" title="Followerbase">Followerbase</a>,
-                        <a href="https://startupebooks.net" target="_blank" title="Startup ebooks">Startup&nbsp;ebooks</a>,
-                        Chiefly (sold),
-                        and <a href="https://usernamealert.com" target="_blank" title="Username Alert">Username&nbsp;Alert</a>.
-                        Publisher of <a href="https://kerstmisgids.nl" target="_blank" title="KerstmisGids">KerstmisGids</a> (Dutch).
+Owner of <a href="https://mediaboutique.nl">Media Boutique</a>. Creator of **Megaproductive** (sold),
+                        **Followerbase**,
+                        <a href="https://startupebooks.net" target="_blank" title="Startup ebooks">**Startup&nbsp;ebooks**</a>,
+                        **Chiefly** (sold),
+                        and **Username&nbsp;Alert**.
+                        Publisher of **KerstmisGids** (Dutch).
                         Former <a href="http://supremecore.net" target="_blank" title="SCP">netlabel</a> owner.
                         Open&nbsp;source contributor.
                         Small-scale investor in digital assets and web property.
