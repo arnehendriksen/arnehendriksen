@@ -1,10 +1,10 @@
-Owner of <a href="https://mediaboutique.nl">Media Boutique</a>. Creator of **Megaproductive** (sold),
+Owner of <a href="https://mediaboutique.nl">**Media Boutique**</a>. Creator of **Megaproductive** (sold),
                         **Followerbase**,
                         <a href="https://startupebooks.net" target="_blank" title="Startup ebooks">**Startup&nbsp;ebooks**</a>,
                         **Chiefly** (sold),
                         and **Username&nbsp;Alert**.
                         Publisher of **KerstmisGids** (Dutch).
-                        Former <a href="http://supremecore.net" target="_blank" title="SCP">netlabel</a> owner.
+                        Founder of independent international netlabel <a href="http://supremecore.net" target="_blank" title="SCP">**SCP**</a>.
                         Open&nbsp;source contributor.
                         Small-scale investor in digital assets and web property.
                         Occasional <a href="https://soundcloud.com/arnehendriksen" target="_blank" title="Arne Hendriksen on SoundCloud">home&nbsp;studio&nbsp;musician</a>.
