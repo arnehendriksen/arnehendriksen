@@ -4,7 +4,7 @@ Owner of <a href="https://mediaboutique.nl">**Media Boutique**</a>. Creator of *
                         **Chiefly** (sold),
                         and **Username&nbsp;Alert**.
                         Publisher of **KerstmisGids** (Dutch).
-                        Founder of independent netlabel <a href="http://supremecore.net" target="_blank" title="SCP">**SCP**</a>.
+                        Founder of independent worldwide hardcore netlabel <a href="http://supremecore.net" target="_blank" title="SCP">**SCP**</a> (since 2017).
                         Open&nbsp;source contributor.
                         Small-scale investor in digital assets and web property.
                         Occasional <a href="https://soundcloud.com/arnehendriksen" target="_blank" title="Arne Hendriksen on SoundCloud">home&nbsp;studio&nbsp;musician</a>.
