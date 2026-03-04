@@ -1,15 +1,8 @@
-Owner of <a href="https://mediaboutique.nl">**Media Boutique**</a>. Creator of **Megaproductive** (sold),
-                        **Followerbase**,
-                        <a href="https://startupebooks.net" target="_blank" title="Startup ebooks">**Startup&nbsp;ebooks**</a>,
-                        **Chiefly** (sold),
-                        and **Username&nbsp;Alert**.
-                        Publisher of **KerstmisGids** (Dutch).
-                        Founder of independent worldwide netlabel <a href="http://supremecore.net" target="_blank" title="SCP">**SCP**</a> (since 1997).
-                        Open&nbsp;source contributor.
-                        Small-scale investor in digital assets and web property.
-                        Occasional <a href="https://soundcloud.com/arnehendriksen" target="_blank" title="Arne Hendriksen on SoundCloud">home&nbsp;studio&nbsp;musician</a>.
-                        Productivity enthusiast and <a href="https://gettingthingsdone.com" target="_blank" rel="nofollow" title="Getting Things Done">GTD</a> adept.
+### Independent Founder & Systems Thinker
 
+I design, build, and operate durable systems — from software platforms to independent ventures.
+
+Over the years I've launched multiple digital products and built a diverse portfolio of web properties — some of which were acquired — while developing others into long-term assets. I've worked in senior technical roles while simultaneously building and operating my own ventures.
 
 <!--
 **arnehendriksen/arnehendriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
